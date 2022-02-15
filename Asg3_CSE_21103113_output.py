@@ -4,9 +4,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ================= RESTART: C:\Python\Asg3_CSE_21103113_input.py ================
 <<<<<<<<Question 1>>>>>>>>>
 Enter string:Hare Ram Hare Ram Hare Krishna Hare Ram
-Hare 4
-Ram 3
-Krishna 1
+hare 4
+ram 3
+krishna 1
 <<<<<<<<Question 2>>>>>>>>>
 Message: Enter the Month in numerical form
 Enter Date:16
