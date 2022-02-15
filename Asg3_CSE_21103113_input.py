@@ -1,6 +1,7 @@
 #Question 1
 print('<<<<<<<<Question 1>>>>>>>>>')
 inp_string=input('Enter string:')
+inp_string=inp_string.lower()
 list1=inp_string.split() #Create a list of the input string to check
                          #how many words there are in it.
 if len(list1)==1:
